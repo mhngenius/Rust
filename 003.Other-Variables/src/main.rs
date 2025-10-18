@@ -22,7 +22,7 @@ fn main() {
         int1, int2, int3, int4, int5
     );
 
-    // unasigned integers = only positive numbers includiong 0
+    // unasigned integers = only positive numbers including 0
     let uint1: u8 = 255; // maximum
     let uint2: u16 = 255;
     let uint3: u32 = 255;
