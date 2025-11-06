@@ -2,7 +2,7 @@ fn main() {
     println!("Your weight on mars: {}", calculating_weight_on_mars(90.0)); // hardcoded = can't change
     println!("Your weight on mars: {}", calculating_weight_on_mars2());
 
-    let mut a = 1337; // variables are immutable in Rust by default so we can make them mutable by addongthe "mut" keyword behind the variables name
+    let mut a = 1337; // variables are immutable in Rust by default so we can make them mutable by adding the "mut" keyword behind the variables name
     println!("{}", a);
     a = 42;
     println!("{}", a);
